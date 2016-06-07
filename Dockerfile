@@ -1,4 +1,4 @@
-FROM node:latest
+FROM danieldent/meteor:latest
 
 COPY scripts /opt/scripts
 
